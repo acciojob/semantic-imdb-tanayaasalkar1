@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+Header {
+ font-size: 35px;
+ font-weight: 700;
+ text-align: center;
+}
+
+#nav-actor, #nav-quote {
+	color: Blue;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+Summary {
+	font-size: 14px;
+	color: black;
+	font-weight: 600;
+	line-height: 1.4;
+	margin: 5px;
+}
+
+#actor, #quote {
+	margin: 5px;
+}
+
+footer {
+	margin-top: 50px;
+	font-weight: 700;
+}
